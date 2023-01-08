@@ -18,6 +18,6 @@ Se intenta aproximación con Naive Bayes, Random Forrest y Xgboost. Realizando o
 
 Se alcanzan porcentajes de acierto, en términos de accuracy y F-1 superiores al 80 %. Siendo el análisis de sentimiento, el número de revisiones y la especificidad de las categorías con las que el restaurante se presenta al cliente, los factores que mas contrbibyen a discirminar la clase en la que se predice la categoria de los restaurantes.
 
-Autor: Pablo Soto López
-Correo: Sotopablolopez@gmail.com 
-Ruta proyecto: https://github.com/PabloSotoLopez/Yelp_project.git
+* Autor: Pablo Soto López.
+* Correo: Sotopablolopez@gmail.com.
+* Ruta proyecto: https://github.com/PabloSotoLopez/Yelp_project.git
